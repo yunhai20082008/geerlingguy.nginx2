@@ -1,1 +1,4 @@
-- name: geerlingguy.nginx
+
+---
+roles:
+  - name: geerlingguy.nginx
